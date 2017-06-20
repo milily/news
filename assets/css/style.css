@@ -1,1 +1,9 @@
 /* Holiii otra vez */
+*{
+	margin: 0;
+	padding: 0;
+}
+.imagen{
+	background-position: center;
+	background-size: cover;	
+}
